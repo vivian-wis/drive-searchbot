@@ -97,7 +97,7 @@ sudo docker run searchbot
 
 # Credits:
 
-- [`lzzy12`](https://github.com/lzzy12)
-- [`SVR666`](https://github.com/SVR666)
+- [`lzzy12`](https://github.com/lzzy12) for python-aria-mirror-bot
+- [`SVR666`](https://github.com/SVR666) for SearchX-bot
 
 And many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/breakdowns/drive-searchbot/graphs/contributors).
