@@ -4,6 +4,7 @@ import time
 import random
 import string
 import subprocess
+import requests
 
 import telegram.ext as tg
 from dotenv import load_dotenv
