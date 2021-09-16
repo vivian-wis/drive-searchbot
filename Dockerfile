@@ -4,7 +4,7 @@ WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
 
 RUN apt-get -qq update && \
-    apt-get -qq install -y locales python3 python3-pip
+    apt-get -qq install -y locales python3 python3-pip wget
 
 COPY requirements.txt .
 RUN apt-get clean && apt-get update && apt-get install -y locales
