@@ -1,6 +1,3 @@
-```diff 
-- [ DEAD REPO AND NO MORE UPDATE ]
-```
 # Drive Search Bot
 
 This is a Telegram bot writen in Python for searching files in Drive. Based on [SearchX-bot](https://github.com/SVR666/SearchX-bot)
